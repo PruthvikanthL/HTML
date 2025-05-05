@@ -1,0 +1,21 @@
+.evencoloring{
+    background-color: aquamarine;
+    color: brown;
+   
+}
+.oddcoloring{
+    background-color: black;
+    color: bisque;
+}
+#firstid{
+    background-color: chartreuse;
+    color:black
+}
+#secondid{
+    border: 10px solid blue;
+
+}
+#thirdid{
+    background-color: brown;
+    color:cadetblue
+}
